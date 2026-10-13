@@ -78,7 +78,7 @@ export default function TermsPage() {
 					For questions about these Terms, contact:
 				</p>
 				<ul className="list-disc list-inside text-muted-foreground mb-8 space-y-1">
-					<li>Email: <strong className="text-foreground">pedro@barretto.com.br</strong></li>
+					<li>Email: <strong className="text-foreground">pedro@wavyia.com.br</strong></li>
 					<li>WhatsApp: <strong className="text-foreground">+55 11 93619-9546</strong></li>
 				</ul>
 
