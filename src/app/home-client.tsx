@@ -63,6 +63,13 @@ const projects: Project[] = [
     icon: "/icons/chatdeia.png",
   },
   {
+    name: "Pokémon Survivors",
+    description:
+      "A free Vampire Survivors–style roguelite with Pokémon, right in the browser. Pick a starter, survive the wild hordes, evolve and take down Mewtwo.",
+    url: "https://pokemonsurvivors.com",
+    icon: "/icons/pokemon-survivors.png",
+  },
+  {
     name: "Pace",
     description:
       "A habit tracker for iOS that doesn't guilt-trip you. Build habits calmly, at your own pace.",
