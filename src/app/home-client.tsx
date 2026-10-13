@@ -38,7 +38,7 @@ const socials: Social[] = [
   },
   {
     label: "Email",
-    url: "mailto:pedro@barretto.com.br",
+    url: "mailto:pedro@wavyia.com.br",
     icon: "/icons/gmail.png",
   },
   {
